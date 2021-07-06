@@ -1,0 +1,20 @@
+{
+  "name": "env-parser-esm",
+  "version": "1.0.0",
+  "description": "⚙️ A simple parser to parse files with key=value format (ESM)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xFarish/env-parser.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xFarish/env-parser/issues"
+  },
+  "homepage": "https://github.com/xFarish/env-parser#readme"
+}
